@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://how-dhv-work.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'PaperMod'
