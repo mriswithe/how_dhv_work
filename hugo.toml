@@ -1,4 +1,5 @@
 baseURL = 'https://how-dhv-work.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'How Dry Herb Vaporizers Work!'
 theme = 'PaperMod'
+
