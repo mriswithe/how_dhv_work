@@ -17,7 +17,7 @@ There are many pieces in a ball vape, below are listed the main components.
 * Heater Stand {{< figure src="/stand2.jpg" title="Heater Stand" width=200 >}}
 * Glass/Metal Bowl {{< figure src="/bowl.jpg" title="Bowl" width=200 >}}
 * Waterpipe/Bong {{< figure src="/bong.jpg" title="Bong" width=200 >}}
-* Long metal pick (Definitely probably not a murder weapon) {{< figure src="/pick.jpg" title="Pick" width=200 >}}
+* Long metal pick (Definitely probably not a murder weapon) {{< figure src="/pick.jpg" title="Not for murder!" width=200 >}}
 
 ### Metal Cylinder
 The metal cylinder is the shell that holds the rubies, the heating coil is wrapped around the metal body, some models leave it exposed, some cover it. The job of the metal cylinder is to be the first thing to take in heat from the heating coil. Warning: This metal cylinder is going to be ~600 Degrees Fahrenheit when it is in operation. Try not to touch it. 
@@ -36,7 +36,7 @@ The vapor that comes out from a ball vape is generally pretty hot, and many find
 ### Metal Pick
 This is used to poke at stuff on the metal cylinder to make sure they are in place firmly. Also, a very good pick for clearing the holes on the bowl. Be careful, this thing is very pointy!!
 ## Combined Components
-Once you assemble the Ball Vape, you are basically left with four pieces.
+Once you assemble the Ball Vape, you are basically left with four pqieces.
 * Hot can on a stick
   * Metal Cylinder
   * Heating Coil
