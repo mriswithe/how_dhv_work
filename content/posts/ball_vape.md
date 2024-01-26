@@ -1,7 +1,7 @@
 +++
 title = 'Ball Vapes (B2/Flowerpot)'
 date = 2024-01-23T17:22:42-06:00
-draft = true
+draft = false
 +++
 {{< figure src="/b2_bundle.jpg" title="B2 Heavy Bundle" >}}
 ## Introduction
