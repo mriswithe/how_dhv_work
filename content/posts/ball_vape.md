@@ -10,9 +10,9 @@ Ball Vapes are a type of marijuana vaporizer. They are called such, because part
 ## Raw Components
 There are many pieces in a ball vape, below are listed the main components. 
 
-* Metal Cylinder {{< figure src="/b2_body.jpg" title="The Metal Cylinder" width=200 >}}
-* Heating Coil {{< figure src="/coil.jpg" title="Heating Coil" width=200 >}}
-* Heating Coil Controller (PID) {{< figure src="/pid.jpg" title="PID" width=200 >}}
+* Metal Cylinder {{< figure src="b2_body.jpg" title="The Metal Cylinder" width=200 >}}
+* Heating Coil {{< figure src="coil.jpg" title="Heating Coil" width=200 >}}
+* Heating Coil Controller (PID) {{< figure src="pid.jpg" title="PID" width=200 >}}
 * Lab grown rubies {{< figure src="/rubies.jpg" title="Rubies" width=200 >}}
 * Heater Stand {{< figure src="/stand2.jpg" title="Heater Stand" width=200 >}}
 * Glass/Metal Bowl {{< figure src="/bowl.jpg" title="Bowl" width=200 >}}
