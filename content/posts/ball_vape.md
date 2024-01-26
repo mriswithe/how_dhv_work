@@ -3,6 +3,7 @@ title = 'Ball Vapes (B2/Flowerpot)'
 date = 2024-01-23T17:22:42-06:00
 draft = true
 +++
+{{< figure src="/b2_bundle.jpg" title="B2 Heavy Bundle" >}}
 ## Introduction
 Ball Vapes are a type of marijuana vaporizer. They are called such, because part of the heating mechanism is a loose bunch of lab grown ruby balls. I am going to go over the components, and an explanation of how they work together.
 
@@ -51,12 +52,12 @@ Vaporizers heat marijuana to vaporize THC. This one is no different. The heat in
 ## Usage
 1. Ensure the metal cylinder is on the stand
 2. Turn on the device
-3. Set temperature to 600°F (First time only)
+3. Set temperature to 600°F (First time only), this is persistent
 4. Set Timer for 6 minutes
 5. Put ground marijuana into the bowl and tamp
 6. Put bowl on the input hole of your water pipe
 7. Wait until the timer expires
-8. Set the metal cylinder (USING THE HANDLE) on the bowl, depending on style it may fit differently, but the cylinder will fit inside the bowl, or around the bowl
+8. Set the metal cylinder (USING THE HANDLE) on the bowl, depending on style it may fit differently, but the cylinder will fit inside the bowl (Injector), or around the bowl (Diffuser)
 9. (Optional) Wait 15-20 seconds to let the bowl get hot, this can change how much vapor is produced and how thick it is
 10. Put your mouth on the mouth hole. Breathe in. If you can see the bong's main chamber, keep an eye on it for how thick the vapor looks to gauge when to stop
 11. Stop when you want, I'm not your mom
@@ -65,4 +66,4 @@ Vaporizers heat marijuana to vaporize THC. This one is no different. The heat in
 14. CAREFULLY!!! Stir with the long metal pick, then retamp
 15. If you are ready for more, set the cylinder on the bowl again and do it again.
 16. Repeat until your bud (now ABV or Already Been Vaped) is dark brown or you don't like how it tastes anymore (If it tasted bad to start, well that's just a feature. Some weeds seem to have plenty of the dirt terpene, whichever that is.)
-17. If the bud ends up black like used coffee grounds, you have gone too far
+17. If the bud ends up black like used coffee grounds, or catches on fire, you have gone too far
